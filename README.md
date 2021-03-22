@@ -15,7 +15,7 @@ App Store, or downloaded elsewhere) are supported.
 First, clone the repository to a folder of your choosing.
 
 ```
-git clone https://github.com/elrumo/macOS_Big_Sur_icons_replacements.git
+git clone https://github.com/caleb531/mac-app-icon-customizer.git
 ```
 
 ### 2. Download icons
