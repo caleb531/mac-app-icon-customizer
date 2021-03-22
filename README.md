@@ -1,4 +1,4 @@
-# App Icon Customizer
+# Mac App Icon Customizer
 
 *Copyright 2021 Caleb Evans*  
 *Released under the MIT license*
